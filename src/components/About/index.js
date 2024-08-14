@@ -33,19 +33,19 @@ const About = () => {
                 </h1>
                 <p>
 
-                    As an adaptable software engineer, I am deeply committed to continuous learning and growth, in particular areas that are new or difficult. With a well-rounded foundation in computer science and personal experience, I am constantly seeking opportunities to expand my skill set and eager to expand my skills. I approach challenges with a growth mindset, embracing the opportunity to learn from both successes and more importantly, failures.
+                    Hey there! I’m a programming enthusiast who finds joy in coding and building small projects. Whether I’m tinkering with a new app, experimenting with algorithms, or diving into a fresh programming language, I’m always eager to learn and create.
 
 
                 </p>
 
                 <p>
 
-                    Throughout my career, I have discovered one of my strengths is adaptability to change as that is the one true constant and why software engineering is not just an interest but a passion, whether it's mastering a new programming language, diving into a novel framework, or diving deep into understanding new, emerging technologies.  
+                    When I’m not coding, you’ll probably find me at a live music venue soaking up some great tunes or enjoying a thrilling video game session. I love the energy of a live band and the challenge of mastering a new game. Each of these passions fuels my creativity and keeps me inspired.
 
                 </p>
                     
                 <p>
-                    In every project I undertake, I prioritize curiosity and adaptability, recognizing that the pursuit of knowledge is an ongoing journey.  This allows me to approach challenges with humility, be unafraid to ask questions or seek guidance when uncertain to not only reach goals but to be receptive to the possibility of a better way of reaching them.  My willingness to embrace new challenges and my dedication to continuous improvement define my approach as a software engineer, ensuring that I remain agile and effective in an ever-evolving technological landscape.
+                    Feel free to reach out if you want to chat about programming, share music recommendations, or discuss your latest gaming adventure.
                 </p>
             </div>
             <div className="stage-cube-cont">
