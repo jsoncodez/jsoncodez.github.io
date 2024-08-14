@@ -33,32 +33,19 @@ const About = () => {
                 </h1>
                 <p>
 
-                    As an adaptable software engineer, I am deeply committed to continuous learning and growth,
-                    particularly in areas where I may encounter gaps in knowledge. With a solid foundation in computer science and years of practical experience, 
-                    I am constantly seeking opportunities to expand my skill set and explore new technologies. 
-                    I approach challenges with a growth mindset, embracing the opportunity to learn from both successes and setbacks alike.
+                    As an adaptable software engineer, I am deeply committed to continuous learning and growth, in particular areas that are new or difficult. With a well-rounded foundation in computer science and personal experience, I am constantly seeking opportunities to expand my skill set and eager to expand my skills. I approach challenges with a growth mindset, embracing the opportunity to learn from both successes and more importantly, failures.
 
 
                 </p>
 
                 <p>
 
-                    Throughout my career, I have relished the chance to delve into unfamiliar territories, 
-                    whether it's mastering a new programming language, diving into a novel framework, 
-                    or understanding the nuances of emerging technologies. 
-                    My enthusiasm for learning extends beyond technical skills to encompass 
-                    a holistic understanding of software development processes and industry best practices. 
-                    I actively seek out mentorship and collaborative opportunities, recognizing that the collective 
-                    knowledge of a team often leads to the most innovative solutions.
+                    Throughout my career, I have discovered one of my strengths is adaptability to change as that is the one true constant and why software engineering is not just an interest but a passion, whether it's mastering a new programming language, diving into a novel framework, or diving deep into understanding new, emerging technologies.  
 
                 </p>
                     
                 <p>
-                    In every project I undertake, I prioritize curiosity and adaptability, 
-                    recognizing that the pursuit of knowledge is an ongoing journey. I approach challenges with humility,
-                    unafraid to ask questions or seek guidance when faced with uncertainty. My willingness to 
-                    embrace new challenges and my dedication to continuous improvement define my approach as a software engineer, 
-                    ensuring that I remain agile and effective in an ever-evolving technological landscape.
+                    In every project I undertake, I prioritize curiosity and adaptability, recognizing that the pursuit of knowledge is an ongoing journey.  This allows me to approach challenges with humility, be unafraid to ask questions or seek guidance when uncertain to not only reach goals but to be receptive to the possibility of a better way of reaching them.  My willingness to embrace new challenges and my dedication to continuous improvement define my approach as a software engineer, ensuring that I remain agile and effective in an ever-evolving technological landscape.
                 </p>
             </div>
             <div className="stage-cube-cont">
