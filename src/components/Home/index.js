@@ -7,6 +7,7 @@ import './index.scss';
 import Logo from './Logo';
 
 
+
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
     const nameArray = ['J','a','s','o','n'] //4
@@ -49,7 +50,8 @@ const Home = () => {
                 idx={17} />
                 </h1>
 
-                <h2>Python/C++/Full Stack/React/Flask</h2>
+                {/* <h2 className="skills-label">Python/C++/Full Stack/React/TypeScript</h2> */}
+                <p className="skills-label">Python/C++/Full Stack/React/TypeScript</p>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
             <Logo />
