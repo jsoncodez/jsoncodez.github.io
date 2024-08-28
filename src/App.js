@@ -42,7 +42,6 @@ function App() {
 
     </Routes>
    
-    <Loader type="ball-scale-multiple"/>
    </>
 
 
