@@ -4,7 +4,7 @@ $primary-color: #fff;
 
 @import 'animate.css';
 @import '~loaders.css/src/animations/pacman.scss';
-@import '~loaders.css/src/animations/ball-scale-multiple.scss';
+@import 'loaders.css/src/animations/ball-scale-multiple.scss';
 
 @font-face {
     font-family: 'Helvetica Neue';
@@ -28,6 +28,9 @@ textarea
     
 }
 
+.loader-hidden {
+    display:none;
+}
 .loader-active {
     display: block;
     position: absolute;
@@ -42,3 +45,4 @@ textarea
     animation: fadeOut 1s 1s;
     animation-fill-mode: forwards;
 }
+
